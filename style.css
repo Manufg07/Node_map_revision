@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#itemlist {
+    list-style-type: none;
+    padding: 0;
+}
+
+#itemlist li {
+    padding: 8px;
+    background-color: rgb(196, 240, 241);
+    margin: 5px 0;
+}
+#addItem{
+    margin: 5px 0;
+}
